@@ -1,6 +1,7 @@
 Atliq-Hardwares-Consumer-Goods-Analysis-using-PowerBI-and-MYSQL
 
-🚀 Thrilled to share my experience tackling the Consumer Goods Ad-hoc Insights Data Analysis Project for the Codebasics Resume Project Challenge 🚀
+🚀 Thrilled to share my experience tackling the Consumer Goods Ad-hoc Insights Data Analysis Project for the Codebasics Resume Project Challenge 🚀.
+
 Atliq Hardwares, a leading (fictional) Indian computer hardware producer, needed to make faster, data-driven decisions. To expand their data analyst team, they conducted an SQL challenge to assess applicants' technical and soft skills.
 
 Here's what I accomplished:
