@@ -1,0 +1,1 @@
+# Atliq-Hardwares-Consumer-Goods-Analysis-using-PowerBI-and-MYSQL
