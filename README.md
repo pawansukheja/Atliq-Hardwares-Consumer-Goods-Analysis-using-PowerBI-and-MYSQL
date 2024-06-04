@@ -24,4 +24,15 @@ This challenge was an invaluable learning experience, honing my skills in:
 •	Presentation
 •	Communication
 
-![Atliq Hardwares Consumer Goods](https://github.com/pawansukheja/Atliq-Hardwares-Consumer-Goods-Analysis-using-PowerBI-and-MYSQL/assets/163865690/b501f1cd-25d3-4d2f-9e03-2b03ad080199)
+Live Dashboard - https://app.powerbi.com/view?r=eyJrIjoiMWUyZTI3NjItNDU4MS00OWQ0LWJkYjEtMWE1MTQ4MzQ5ZTEzIiwidCI6IjdjYWI2MjRmLTM4YzYtNDQ2MS1hYWIzLThjNmYxZmUwODZlYyJ9
+
+
+![Atliq Hardwares Consumer Goods Report](https://github.com/pawansukheja/Atliq-Hardwares-Consumer-Goods-Analysis-using-PowerBI-and-MYSQL/assets/163865690/05120920-538f-47e5-88be-92298371cd53)
+
+![Atliq Hardwares Consumer Goods Details](https://github.com/pawansukheja/Atliq-Hardwares-Consumer-Goods-Analysis-using-PowerBI-and-MYSQL/assets/163865690/7a5982fd-688f-45fa-b880-98033de617dd)
+
+
+![Atliq Hardwares Consumer Goods Model View](https://github.com/pawansukheja/Atliq-Hardwares-Consumer-Goods-Analysis-using-PowerBI-and-MYSQL/assets/163865690/b7b55ad1-8e55-4447-8d44-7fae2a27c4da)
+
+
+
